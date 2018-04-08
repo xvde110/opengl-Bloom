@@ -1,0 +1,6 @@
+﻿  Bloom.cpp
+d:\documents\visual studio 2017\projects\bloom\bloom\shader.h(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\documents\visual studio 2017\projects\bloom\bloom\bloom.cpp(21): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  Bloom.vcxproj -> d:\documents\visual studio 2017\Projects\Bloom\Debug\Bloom.exe
+  Bloom.vcxproj -> d:\documents\visual studio 2017\Projects\Bloom\Debug\Bloom.pdb (Partial PDB)
